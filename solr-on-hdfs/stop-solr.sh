@@ -1,2 +1,2 @@
 #!/bin/bash
-./solr/bin/solr stop -all
+/opt/solr/bin/solr stop -all
